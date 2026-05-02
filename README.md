@@ -119,7 +119,7 @@ Trabajo práctico realizado como parte de la materia de programación, por Leone
 
 # ¿Por qué hashear contraseñas?
 
-Hashear contraseñas es importante porque permite almacenar las contraseñas de forma segura. En lugar de guardar la contraseña original en texto plano, se guarda una versión transformada (hash) que no puede convertirse fácilmente en la contraseña real.
+Hashear contraseñas es importante porque permite almacenar las contraseñas de forma segura. En lugar de guardar la contraseña original, se guarda una versión transformada (hash) que no puede convertirse fácilmente en la contraseña real.
 
 Esto protege a los usuarios en caso de que la base de datos sea comprometida, ya que un atacante no podría obtener directamente las contraseñas originales. Además, el uso de funciones de hash seguras evita ataques comunes como el acceso directo a credenciales almacenadas en texto plano.
 
